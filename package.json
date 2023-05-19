@@ -25,6 +25,9 @@
     "cordova-ios",
     "cordova-amazon-fireos"
   ],
+  "devDependencies": {
+    "typescript": "5.0.4"
+  },
   "platforms": [
     "android",
     "ios",
