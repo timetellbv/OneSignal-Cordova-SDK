@@ -1,7 +1,7 @@
 import java.nio.file.Files
 
 android.defaultConfig {
-  manifestPlaceholders = [
+  manifestPlaceholders += [
     onesignal_app_id: '', // Use from js code
     onesignal_google_project_number: 'REMOTE'
   ]
